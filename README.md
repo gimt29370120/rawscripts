@@ -1,3 +1,19 @@
+# 架構
+原始：
+```
+loadstring(game:HttpGet("https://scriptblox.com/raw/RIVALS-Script-Works-On-Scythex-Solara-Celery-18346"))()
+  https://scriptblox.com/raw/RIVALS-Script-Works-On-Scythex-Solara-Celery-18346
+    https://raw.githubusercontent.com/Sheeshablee73/Scriptss/main/RivalsUPD2.lua
+      https://raw.githubusercontent.com/evoincorp/lucideblox
+```
+修改：
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gimt29370120/rawscripts/refs/heads/main/RIVALS-Script-Works-On-Scythex-Solara-Celery-18346"))()
+  https://raw.githubusercontent.com/gimt29370120/rawscripts/refs/heads/main/RIVALS-Script-Works-On-Scythex-Solara-Celery-18346
+    https://raw.githubusercontent.com/gimt29370120/Scriptss/main/RivalsUPD2.lua
+      https://raw.githubusercontent.com/frappedevs/lucideblox
+```
+
 # 原始
 `loadstring(game:HttpGet("https://scriptblox.com/raw/RIVALS-Script-Works-On-Scythex-Solara-Celery-18346"))()`</br>
 `loadstring(game:HttpGet("https://raw.githubusercontent.com/gimt29370120/rawscripts/refs/heads/main/RIVALS-Script-Works-On-Scythex-Solara-Celery-18346"))()`</br>
