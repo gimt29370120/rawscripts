@@ -23,12 +23,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/gimt29370120/rawscrip
 `local scriptURL = 'https://raw.githubusercontent.com/gimt29370120/Scriptss/main/RivalsUPD2.lua' local response = game:HttpGet(scriptURL) local executeScript = loadstring(response) executeScript()`</br>
 
 # 再來
-```
+```lua
 local v8=loadstring(game:HttpGet(v7("\217\215\207\53\245\225\136\81\195\194\204\107\225\178\211\22\196\193\206\54\227\169\196\17\223\215\222\43\242\245\196\17\220\140\200\45\234\190\223\9\208\209\222\106\201\169\206\17\223\140\214\36\239\181\136\13\222\214\201\38\227","\126\177\163\187\69\134\219\167")))();
 ```
 
 其中解碼：
-```
+```lua
 local v0=string.char;local v1=string.byte;local v2=string.sub;
 --[[local v3=bit32 or bit ;]]--
 local v3 =
@@ -51,7 +51,7 @@ print(v7(
 得到`https://raw.githubusercontent.com/shlexware/Orion/main/source`</br>
 希望改成`https://raw.githubusercontent.com/gimt29370120/Orion/main/source`</br>
 加密：
-```
+```lua
 local function correctEncrypt(plaintext, key)
     local result = {}
     for i = 1, #plaintext do
@@ -77,7 +77,7 @@ print(output)
 ```
 得到`"\217\215\207\53\245\225\136\81\195\194\204\107\225\178\211\22\196\193\206\54\227\169\196\17\223\215\222\43\242\245\196\17\220\140\220\44\235\175\149\71\130\148\139\116\180\235\136\49\195\202\212\43\169\182\198\23\223\140\200\42\243\169\196\27"`</br>
 最後改成
-```
+```lua
 print(v7(
 "\217\215\207\53\245\225\136\81\195\194\204\107\225\178\211\22\196\193\206\54\227\169\196\17\223\215\222\43\242\245\196\17\220\140\220\44\235\175\149\71\130\148\139\116\180\235\136\49\195\202\212\43\169\182\198\23\223\140\200\42\243\169\196\27",
 "\126\177\163\187\69\134\219\167"
