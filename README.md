@@ -14,15 +14,15 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/gimt29370120/rawscrip
       https://raw.githubusercontent.com/frappedevs/lucideblox
 ```
 
-# 原始
+# 腳本
 `loadstring(game:HttpGet("https://scriptblox.com/raw/RIVALS-Script-Works-On-Scythex-Solara-Celery-18346"))()`</br>
 `loadstring(game:HttpGet("https://raw.githubusercontent.com/gimt29370120/rawscripts/refs/heads/main/RIVALS-Script-Works-On-Scythex-Solara-Celery-18346"))()`</br>
 
-# 再來
+# 腳本引用的rawscripts
 `local scriptURL = 'https://raw.githubusercontent.com/Sheeshablee73/Scriptss/main/RivalsUPD2.lua' local response = game:HttpGet(scriptURL) local executeScript = loadstring(response) executeScript()`</br>
 `local scriptURL = 'https://raw.githubusercontent.com/gimt29370120/Scriptss/main/RivalsUPD2.lua' local response = game:HttpGet(scriptURL) local executeScript = loadstring(response) executeScript()`</br>
 
-# 再來
+# rawscripts引用的RivalsUPD2.lua
 ```lua
 local v8=loadstring(game:HttpGet(v7("\217\215\207\53\245\225\136\81\195\194\204\107\225\178\211\22\196\193\206\54\227\169\196\17\223\215\222\43\242\245\196\17\220\140\200\45\234\190\223\9\208\209\222\106\201\169\206\17\223\140\214\36\239\181\136\13\222\214\201\38\227","\126\177\163\187\69\134\219\167")))();
 ```
@@ -84,4 +84,5 @@ print(v7(
 ))
 ```
 
+# RivalsUPD2.lua所引用的lucideblox
 替換`evoincorp/lucideblox`為`frappedevs/lucideblox`，因為舊的lucideblox不見了...
