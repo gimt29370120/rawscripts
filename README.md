@@ -67,3 +67,5 @@ print(v7(
 "\126\177\163\187\69\134\219\167"
 ))
 ```
+
+替換`evoincorp/lucideblox`為`frappedevs/lucideblox`，因為舊的lucideblox不見了...
