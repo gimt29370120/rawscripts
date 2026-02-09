@@ -1,10 +1,10 @@
 # 原始
-`loadstring(game:HttpGet("https://scriptblox.com/raw/RIVALS-Script-Works-On-Scythex-Solara-Celery-18346"))()`<\br>
-`loadstring(game:HttpGet("https://raw.githubusercontent.com/gimt29370120/rawscripts/refs/heads/main/RIVALS-Script-Works-On-Scythex-Solara-Celery-18346"))()`<\br>
+`loadstring(game:HttpGet("https://scriptblox.com/raw/RIVALS-Script-Works-On-Scythex-Solara-Celery-18346"))()`</br>
+`loadstring(game:HttpGet("https://raw.githubusercontent.com/gimt29370120/rawscripts/refs/heads/main/RIVALS-Script-Works-On-Scythex-Solara-Celery-18346"))()`</br>
 
 # 再來
-`local scriptURL = 'https://raw.githubusercontent.com/Sheeshablee73/Scriptss/main/RivalsUPD2.lua' local response = game:HttpGet(scriptURL) local executeScript = loadstring(response) executeScript()`<\br>
-`local scriptURL = 'https://raw.githubusercontent.com/gimt29370120/Scriptss/main/RivalsUPD2.lua' local response = game:HttpGet(scriptURL) local executeScript = loadstring(response) executeScript()`<\br>
+`local scriptURL = 'https://raw.githubusercontent.com/Sheeshablee73/Scriptss/main/RivalsUPD2.lua' local response = game:HttpGet(scriptURL) local executeScript = loadstring(response) executeScript()`</br>
+`local scriptURL = 'https://raw.githubusercontent.com/gimt29370120/Scriptss/main/RivalsUPD2.lua' local response = game:HttpGet(scriptURL) local executeScript = loadstring(response) executeScript()`</br>
 
 # 再來
 ```
@@ -32,8 +32,8 @@ print(v7(
 ))
 ```
 
-得到`https://raw.githubusercontent.com/shlexware/Orion/main/source`<\br>
-希望改成`https://raw.githubusercontent.com/gimt29370120/Orion/main/source`<\br>
+得到`https://raw.githubusercontent.com/shlexware/Orion/main/source`</br>
+希望改成`https://raw.githubusercontent.com/gimt29370120/Orion/main/source`</br>
 加密：
 ```
 local function correctEncrypt(plaintext, key)
